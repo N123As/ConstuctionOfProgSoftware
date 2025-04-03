@@ -1,0 +1,3 @@
+LOG: file ok
+ERR: file missing
+WRN: low space
